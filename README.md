@@ -2,14 +2,14 @@
 
 ## Install
 ```shell
-$ npm install senstive-words-11 --save
+$ npm install senstive-words --save
 ```
 
 ## Import Module
 ```javascript
-const {sensitiveWords} = require('sensitive-words-11')
+const {sensitiveWords} = require('sensitive-words')
 // Or ES2015 Modules
-const {sensitiveWords} from 'sensitive-words-11'
+const {sensitiveWords} from 'sensitive-words'
 ```
 
 ## Usage
